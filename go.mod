@@ -1,4 +1,4 @@
-module protos
+module github.com/Tourist805/protos
 
 go 1.23.4
 
